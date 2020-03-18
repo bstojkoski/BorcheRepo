@@ -1,0 +1,11 @@
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\bin\Debug\netcoreapp3.1\JSAssignmentConsoleApp.exe
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\bin\Debug\netcoreapp3.1\JSAssignmentConsoleApp.deps.json
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\bin\Debug\netcoreapp3.1\JSAssignmentConsoleApp.runtimeconfig.json
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\bin\Debug\netcoreapp3.1\JSAssignmentConsoleApp.runtimeconfig.dev.json
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\bin\Debug\netcoreapp3.1\JSAssignmentConsoleApp.dll
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\bin\Debug\netcoreapp3.1\JSAssignmentConsoleApp.pdb
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\obj\Debug\netcoreapp3.1\JSAssignmentConsoleApp.csprojAssemblyReference.cache
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\obj\Debug\netcoreapp3.1\JSAssignmentConsoleApp.AssemblyInfoInputs.cache
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\obj\Debug\netcoreapp3.1\JSAssignmentConsoleApp.AssemblyInfo.cs
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\obj\Debug\netcoreapp3.1\JSAssignmentConsoleApp.dll
+C:\Users\borche.stojkoski\source\repos\JSAssignmentConsoleApp\JSAssignmentConsoleApp\obj\Debug\netcoreapp3.1\JSAssignmentConsoleApp.pdb
