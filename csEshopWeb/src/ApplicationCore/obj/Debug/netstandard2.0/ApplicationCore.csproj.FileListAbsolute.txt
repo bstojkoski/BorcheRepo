@@ -1,0 +1,24 @@
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\aleksandar.jordanov\Desktop\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\aleksandar.jordanov\Documents\Desktop files\BootCamp\DEV\Debugging\Assessments\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\CD\Temp\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\CD\Temp\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\CD\Temp\csDebugging\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
