@@ -41,7 +41,7 @@ namespace Microsoft.eShopWeb
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseUrls("http://0.0.0.0:5202")
+                .UseUrls("http://0.0.0.0:5106")
                 .UseStartup<Startup>();
     }
 }

@@ -31,3 +31,15 @@ C:\CD\Temp\csDebugging\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructur
 C:\CD\Temp\csDebugging\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
 C:\CD\Temp\csDebugging\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
 C:\CD\Temp\csDebugging\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

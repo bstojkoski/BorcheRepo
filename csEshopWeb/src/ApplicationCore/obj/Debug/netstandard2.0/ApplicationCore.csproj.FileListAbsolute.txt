@@ -22,3 +22,12 @@ C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationC
 C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
 C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
 C:\CD\Temp\csDebugging\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\webSites\release-v20.3.1-DEPLOY_3\csEshopWeb\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
