@@ -7,4 +7,4 @@
 )
 
 Import-Module WebAdministration
-New-WebApplication -Name ${ApplicationName} -Site ${WebSiteName} -PhysicalPath ${ApplicationPath} -ApplicationPool ${WebAppPool} -Force
+New-WebApplication -Name #{ApplicationName} -Site #{WebSiteName} -PhysicalPath #{ApplicationPath} -ApplicationPool #{WebAppPool} -Force
