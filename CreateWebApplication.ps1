@@ -1,9 +1,9 @@
 ﻿param(
-    [string]#ApplicationPath,
-    [string]#SourcePath,
-    [string]#WebAppPool,
-    [string]#ApplicationName,
-    [string]#WebSiteName
+    [string]$ApplicationPath,
+    [string]$SourcePath,
+    [string]$WebAppPool,
+    [string]$ApplicationName,
+    [string]$WebSiteName
 )
 
 Import-Module WebAdministration
