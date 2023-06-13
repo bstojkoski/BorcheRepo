@@ -7,4 +7,4 @@
 )
 
 Import-Module WebAdministration
-New-WebApplication -Name "eshop" -Site "Default Web Site" -PhysicalPath "C:\\Program Files (x86)\\Go Agent\\pipelines\\e-Shop-build\\csEshopWeb" -ApplicationPool "DefaultAppPool" -Force
+New-WebApplication -Name "eshop" -Site "Default Web Site" -PhysicalPath ".\\csEshopWeb\\src\\Web" -ApplicationPool "DefaultAppPool" -Force
